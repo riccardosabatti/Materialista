@@ -1,61 +1,63 @@
-# 🚀 MATERIALISTA - Lista 5 🚀
+# 🚀 MATERIALISTA - List 5 🚀
 
-Benvenuti al manifesto elettorale di **Materialista**, la lista con cui ci siamo presentati alle elezioni dei rappresentanti degli studenti per il consiglio d'istituto nell'anno scolastico 2022-2023 al Liceo Copernico di Brescia.
+Welcome to the electoral manifesto of **Materialista**, the list with which we presented ourselves in the student representative elections for the school council for the 2022-2023 academic year at Copernico High School in Brescia.
 
 🔗 **Connect with us**: [Instagram](https://www.instagram.com/materialistacope/)
 
 ---
 
-## 📋 Il nostro programma:
+## 📋 Our Program:
 
-### 🎙️ DIALOGO E RAPPRESENTANZA
+### 🎙️ DIALOGUE AND REPRESENTATION
 
-- Resoconti bisettimanali e post-consiglio sulle attività svolte.
-- Utilizzo attivo dell’account [@rappre.cope](https://www.instagram.com/rappre.copernico/).
-- Mail istituzionale per una comunicazione efficiente.
-- Convocazione del comitato studentesco per ascolto diretto.
+- Bi-weekly reports and post-council updates on activities carried out.
+- Active use of the [@rappre.cope](https://www.instagram.com/rappre.copernico/) account.
+- Institutional email for efficient communication.
+- Calling of the student committee for direct listening.
 
-### 📚 DIRITTI DELLO STUDENTE COPERNICANO
+### 📚 RIGHTS OF THE COPERNICAN STUDENT
 
-- Assemblee informative su esami, bocciature, verifiche, valutazioni, e tempistiche di correzione.
+- Informative assemblies on exams, failures, tests, evaluations, and correction timelines.
 
-### 🚻 SPECCHI NEI BAGNI
+### 🚻 MIRRORS IN BATHROOMS
 
-- Proposta di installazione specchi per comfort degli studenti, in particolare per chi porta lenti a contatto.
+- Proposal to install mirrors for student comfort, especially for those wearing contact lenses.
 
-### 🍹 RIAPRIRE IL BAR DEL VECCHIO
+### 🍹 REOPENING THE OLD BAR
 
-- Iniziativa per la riapertura del bar del vecchio post-covid.
+- Initiative for the reopening of the post-covid old bar.
 
 ### 🛍️ MERCHANDISING
 
-- Offerta di merchandising vario e di qualità, con particolare attenzione alla vestibilità e ai design proposti dagli studenti.
+- Offering of various and quality merchandise, with particular attention to fit and student-proposed designs.
 
 ### 📚 COPENOTES
 
-- Piattaforma per scambio appunti e ripetizioni, con premi per i contributi più apprezzati.
+- Platform for exchanging notes and tutoring, with rewards for the most appreciated contributions.
 
-### 🎉 EVENTI E FESTE
+### 🎉 EVENTS AND PARTIES
 
-- Collaborazioni per serate tra i licei, eventi al Social e al Circus e altri eventi studenteschi.
+- Collaborations for evenings among high schools, events at Social and Circus, and other student events.
 
-### 🏀 ATTIVITÀ IN PALESTRA E TORNEI
+### 🏀 GYM ACTIVITIES AND TOURNAMENTS
 
-- Introduzione di attività sportive con esperti e tornei tra vari licei.
+- Introduction of sports activities with experts and tournaments among various high schools.
 
 ### 🍕 PIZZA DAY
 
-- Giornate conviviali in aula magna.
+- Convivial days in the main hall.
 
-### 🤝 CONVENZIONI
+### 🤝 AGREEMENTS
 
-- Partnership con bar e ristoranti locali per sconti e offerte speciali per gli studenti.
-
----
-
-**Ci impegniamo a portare innovazione, rappresentanza attiva e soluzioni concrete alle problematiche degli studenti. Vota Materialista, la tua voce nel Liceo Copernico!**
+- Partnerships with local bars and restaurants for discounts and special offers for students.
 
 ---
 
-📩 **Contattaci** - [Instagram Direct](https://www.instagram.com/materialistacope/)
+**We commit to bringing innovation, active representation, and concrete solutions to student issues. Vote Materialista, your voice in Copernico High School!**
 
+---
+
+📩 **Contact Us** - [Instagram Direct](https://www.instagram.com/materialistacope/)
+---
+---
+**Note**: This site is based on the [html5up](https://html5up.net/) template.
